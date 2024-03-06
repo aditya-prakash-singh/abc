@@ -10,3 +10,9 @@ git commit -m "commit-name" - file saving
 git branch -M main          - To create main branch
 git remote add origin https://github.com/aditya-prakash-singh/abc.git
 git push -u origin main     - Pushing into main branch
+
+
+For next changes:
+git add .  
+git commit -m "message"
+git push -u origin main
